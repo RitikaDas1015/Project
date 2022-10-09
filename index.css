@@ -1,0 +1,90 @@
+body
+{
+    background-color: rgb(168, 160, 188);
+    font-family: 'Roboto',sans-serif;
+}
+
+.Container
+{
+    width: 400px;
+    height: 667px;
+    background-color:skyblue;
+    margin: auto;
+    border-radius: 7px;
+    text-align: center;
+}
+
+.h1
+{
+    text-align: center;
+    margin-top: 15px;
+}
+
+form
+{
+    width: 300px;
+    margin: 20px;
+}
+
+form label
+{
+    display: flex;
+    margin-top: 15px;
+    font-size: 13px;
+}
+
+input
+{
+    width: 250px;
+    padding: 5px;
+    border: none;
+    border: 2px solid gray;
+    border-radius: 5px;
+    outline: none;
+}
+
+input[type="button"]
+{
+    width: 255px;
+    height: 30px;
+    margin-top: 10px;
+    border: none;
+    background-color: lightseagreen;
+    color: rgb(214, 211, 122);
+    font-size: 15px;
+
+}
+
+p{
+    text-align: center;
+    padding-top: 5px;
+    font-size: 10px;
+}
+
+.already
+{
+    text-align: center;
+    color: white;
+    font-size: 10px;
+    margin-top: -5px;
+}
+
+.already a
+{
+    color: rgb(199, 212, 218);
+}
+
+body
+{
+    text-align: center;
+    font-family: tahoma;
+}
+table,th,td{
+    border: 2px solid rgb(203, 96, 155);
+}
+table{
+    border-collapse: collapse;
+}
+th,td{
+    padding: 15px 10px;
+}
